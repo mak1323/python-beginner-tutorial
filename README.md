@@ -1,5 +1,11 @@
 This is a tutorial for the most simple and basic of Python scripting. Assuming that you have some coding experience you should find everything in this to be pretty straight forward and easy to learn. This uses Python 3.6. If you want to follow along and work with me, you can install python 3.6 through the terminal.
 
+Before we begin, let's talk about what python is and what python isn't. Python is a powerful, high-level language that is great for beginnners and experts alike. It is used for almost everything, from this operating system, to APIs (Django), to making robots that fetch butter. I assume. Maybe.
+
+Python allows for awesome ability to import in modules and code without losing integrity, and allowing the developer a greater control of whats going on.
+
+https://xkcd.com/353/
+
 |Installing Python 3.6|
 
 The OS we are running right now already has a version of Python installed. We do NOT want to mess with our installed Python because our OS actually is using it. Go Figure. You can see what your current python version is by running:
@@ -200,5 +206,15 @@ Woohoo, for loop.
 This is just a beginner intro to python.
 
 |LAB|
+
+Now, using what you know about python, let's code our own operating systems!
+
+No, how Super Mario? Just have to run pip and install pygame.
+
+Fine.
+
+I didn't want to play that anyway.
+
+If we are done early, try the following:
 
 Go ahead and create Fibbornacci's in Python. File is located in lib to start.
