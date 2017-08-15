@@ -201,4 +201,4 @@ This is just a beginner intro to python.
 
 |LAB|
 
-Go ahead and create Fibbornacci's in Python. File is located in lib
+Go ahead and create Fibbornacci's in Python. File is located in lib to start.
