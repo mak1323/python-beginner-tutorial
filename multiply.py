@@ -1,0 +1,6 @@
+print("Welcome to multiply.")
+num1 = int(input("Please enter your first number:"))
+num2 = int(input("Please enter your second number:"))
+print("The answer to", num1, "times", num2, " is", num1 * num2)
+name = input("Please enter your name:")
+print("Hello", name + ", thank you for using my first program in python.")
