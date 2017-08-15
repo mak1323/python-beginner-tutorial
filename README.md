@@ -218,3 +218,12 @@ I didn't want to play that anyway.
 If we are done early, try the following:
 
 Go ahead and create Fibbornacci's in Python. File is located in lib to start.
+
+
+|Further Reading|
+
+python3 tutorial: https://docs.python.org/3/tutorial/
+
+python home:https://www.python.org/
+
+django: https://www.djangoproject.com/
